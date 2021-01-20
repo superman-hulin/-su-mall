@@ -14,6 +14,9 @@
         <module>sumall-order</module>
         <module>sumall-product</module>
         <module>sumall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>sumall-common</module>
     </modules>
 
 </project>
